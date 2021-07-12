@@ -1,9 +1,14 @@
 # Work-Day-Scheduler
 
+## Link
+
+https://bschumann15.github.io/Work-Day-Scheduler/
+
 ## Description
+
 This is a calendar application that allows a user to save events for each hour of the day after modifying the starter code.
 
-The technologies used for the Word Day Scheguler were HTML, CSS & Javascript. Also, the Third Party APIs that were used were Moment.js, Bootstrap and JQuery.
+The technologies used for the Word Day Scheduler were HTML, CSS & Javascript. Also, the Third Party APIs that were used were Moment.js, Bootstrap and JQuery.
 
 ## User Story
 
